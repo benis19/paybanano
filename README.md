@@ -1,6 +1,6 @@
-# PayNano
+# PayBanano
 
-PayNano is built with [Vue.js](https://vuejs.org/) and hosted on [Netlify](http://netlify.com/).
+PayBanano is built with [Vue.js](https://vuejs.org/) and hosted on [Netlify](http://netlify.com/).
 
 ``` sh
 # Set up project
