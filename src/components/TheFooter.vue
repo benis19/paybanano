@@ -1,11 +1,11 @@
 <template>
 	<footer class="footer">
 		<a
-			href="https://nano.org/"
+			href="https://banano.cc/"
 			class="link"
 			target="_blank"
 			rel="noopener"
-			v-text="'Nano.org'"
+			v-text="'Banano.cc'"
 		/>
 
 		<a
