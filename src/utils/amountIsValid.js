@@ -1,4 +1,4 @@
-import {megaToRaw} from 'nano-unit-converter';
+import {megaToRaw} from 'banano-unit-converter';
 
 export default function amountIsValid(amount) {
 	try {
